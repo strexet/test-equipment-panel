@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4603d15336eca4412ba2ff83961acb3a, type: 3}
+  m_Name: Scythe
+  m_EditorClassIdentifier: 
+  id: 1e959d29-38b2-4d0f-9fee-71646be6c9a5
+  icon: {fileID: -5706705255236484868, guid: 3826c7d4ab79f4bc4a9aad52d2d8b2e9, type: 3}
+  attributeValues:
+  - name: Agility
+    type: 100
+    value: -2
+  - name: Wisdom
+    type: 300
+    value: 10
+  - name: Strength
+    type: 0
+    value: 5
